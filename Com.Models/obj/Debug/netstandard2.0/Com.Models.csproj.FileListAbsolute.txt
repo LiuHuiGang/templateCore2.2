@@ -1,0 +1,8 @@
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.Models\bin\Debug\netstandard2.0\Com.Models.deps.json
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.Models\bin\Debug\netstandard2.0\Com.Models.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.Models\bin\Debug\netstandard2.0\Com.Models.pdb
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.Models\obj\Debug\netstandard2.0\Com.Models.AssemblyInfoInputs.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.Models\obj\Debug\netstandard2.0\Com.Models.AssemblyInfo.cs
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.Models\obj\Debug\netstandard2.0\Com.Models.csproj.CoreCompileInputs.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.Models\obj\Debug\netstandard2.0\Com.Models.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.Models\obj\Debug\netstandard2.0\Com.Models.pdb

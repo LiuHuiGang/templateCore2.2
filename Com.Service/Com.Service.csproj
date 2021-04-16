@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\com.IService\Com.IService.csproj" />
+    <ProjectReference Include="..\Com.Models\Com.Models.csproj" />
+    <ProjectReference Include="..\Common.Interface\Common.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

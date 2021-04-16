@@ -1,0 +1,14 @@
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\bin\Debug\netstandard2.0\Common.Core.deps.json
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\bin\Debug\netstandard2.0\Common.Core.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\bin\Debug\netstandard2.0\Common.Core.pdb
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\bin\Debug\netstandard2.0\Com.Models.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\bin\Debug\netstandard2.0\Common.Interface.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\bin\Debug\netstandard2.0\Com.Models.pdb
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\bin\Debug\netstandard2.0\Common.Interface.pdb
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\obj\Debug\netstandard2.0\Common.Core.csprojAssemblyReference.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\obj\Debug\netstandard2.0\Common.Core.AssemblyInfoInputs.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\obj\Debug\netstandard2.0\Common.Core.AssemblyInfo.cs
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\obj\Debug\netstandard2.0\Common.Core.csproj.CoreCompileInputs.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\obj\Debug\netstandard2.0\Common.Core.csproj.CopyComplete
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\obj\Debug\netstandard2.0\Common.Core.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\common.Core\obj\Debug\netstandard2.0\Common.Core.pdb

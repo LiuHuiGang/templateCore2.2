@@ -1,1 +1,0 @@
-# templateCore2.2

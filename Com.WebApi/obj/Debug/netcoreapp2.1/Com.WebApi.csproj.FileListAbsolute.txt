@@ -1,0 +1,16 @@
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\bin\Debug\netcoreapp2.1\Com.WebApi.deps.json
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\bin\Debug\netcoreapp2.1\Com.WebApi.runtimeconfig.json
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\bin\Debug\netcoreapp2.1\Com.WebApi.runtimeconfig.dev.json
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\bin\Debug\netcoreapp2.1\Com.WebApi.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\bin\Debug\netcoreapp2.1\Com.WebApi.pdb
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.AssemblyInfoInputs.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.AssemblyInfo.cs
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.csproj.CoreCompileInputs.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.RazorAssemblyInfo.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.RazorAssemblyInfo.cs
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.RazorTargetAssemblyInfo.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.pdb
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Com.WebApi\obj\Debug\netcoreapp2.1\Com.WebApi.genruntimeconfig.cache

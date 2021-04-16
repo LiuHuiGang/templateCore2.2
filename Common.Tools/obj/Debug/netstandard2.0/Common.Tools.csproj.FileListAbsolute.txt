@@ -1,0 +1,9 @@
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\bin\Debug\netstandard2.0\Common.Tools.deps.json
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\bin\Debug\netstandard2.0\Common.Tools.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\bin\Debug\netstandard2.0\Common.Tools.pdb
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\obj\Debug\netstandard2.0\Common.Tools.AssemblyInfoInputs.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\obj\Debug\netstandard2.0\Common.Tools.AssemblyInfo.cs
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\obj\Debug\netstandard2.0\Common.Tools.csproj.CoreCompileInputs.cache
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\obj\Debug\netstandard2.0\Common.Tools.dll
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\obj\Debug\netstandard2.0\Common.Tools.pdb
+E:\通用代码\MyTemplate\templateCore2.2\WebCore2.2\Common.Tools\obj\Debug\netstandard2.0\Common.Tools.csprojAssemblyReference.cache
